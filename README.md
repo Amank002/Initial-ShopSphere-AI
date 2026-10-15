@@ -1,6 +1,10 @@
-ShopSphere AI
+# ShopSphere AI
+
 ShopSphere AI is a frontend-focused e-commerce demo built with Next.js, React, TypeScript, and Tailwind CSS. It demonstrates product discovery, cart and wishlist interactions, mock checkout, order history, product recommendations, a rule-based shopping assistant, and a simulated admin area.
-Project note: This is a frontend-only demo. Cart, wishlist, products, orders, and demo admin authentication use browser storage/local mock data. It does not include a production backend, database, real payment gateway, or external AI API.
+
+**🌐 Live Demo:** [shopsphere-ai-eight.vercel.app](https://shopsphere-ai-eight.vercel.app/)
+
+**Project note:** This is a frontend-only demo. Cart, wishlist, products, orders, and demo admin authentication use browser storage/local mock data. It does not include a production backend, database, real payment gateway, or external AI API.
 
 Features
 Customer experience
